@@ -30,6 +30,7 @@ print("")
 print("                WARP-PLUS-HKG (script)" + " By Wind_la")
 print("")
 print("[!] 版本: v1.0.0")
+print("[!] 项目: https://github.com/Windla/WARP-PLUS-HKG")
 print("[!] 正在等待Cloudflare WARP启动")
 time.sleep(5)
 
