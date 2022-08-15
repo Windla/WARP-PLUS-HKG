@@ -29,6 +29,7 @@ os.system('cls' if os.name == 'nt' else 'clear')
 print("")
 print("                WARP-PLUS-HKG (script)" + " By Wind_la")
 print("")
+print("[!] 版本: v1.0.0")
 print("[!] 正在等待Cloudflare WARP启动")
 time.sleep(5)
 
