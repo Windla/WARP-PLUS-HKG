@@ -4,7 +4,7 @@
 # 注意事项  
   1. 臭打游戏的须注意, 游戏流量不一定走warp
      建议食用 ss + warp 代理模式(未测试,有问题issue提)
-  2. 待定
+  2. 更新了超时设定
 
 ## 下载
   https://github.com/Windla/WARP-PLUS-HKG/archive/refs/heads/main.zip
