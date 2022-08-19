@@ -1,7 +1,14 @@
 # WARP-PLUS-HKG
   将Cloudflare WARP的主机托管中心锁定为HKG(香港), 以换取低延时warp+.
+
+## 联动
+warp plus script | 在原ALIILAPRO大佬的基础上, 加入了超时和速度检测
+
+https://github.com/Windla/WARP-PLUS-FIX
+  
   
 # 注意事项  
+  0. 仅适用Windows
   1. 臭打游戏的须注意, 游戏流量不一定走warp
      建议食用 ss + warp 代理模式(未测试,有问题issue提)
   2. 更新了超时设定
