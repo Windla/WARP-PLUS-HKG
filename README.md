@@ -1,5 +1,10 @@
 # WARP-PLUS-HKG
   将Cloudflare WARP的主机托管中心锁定为HKG(香港), 以换取低延时warp+.
+  
+# 注意事项  
+  1. 臭打游戏的须注意, 游戏流量不一定走warp
+     建议食用 ss + warp 代理模式(未测试,有问题issue提)
+  2. 待定
 
 ## 下载
   https://github.com/Windla/WARP-PLUS-HKG/archive/refs/heads/main.zip
