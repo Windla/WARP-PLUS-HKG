@@ -1,5 +1,4 @@
 # coding = uft-8
-from asyncio.windows_events import NULL
 import requests
 import win32serviceutil
 import time
