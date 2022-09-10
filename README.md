@@ -12,7 +12,15 @@ https://github.com/Windla/WARP-PLUS-FIX
   1. 臭打游戏的须注意, 游戏流量不一定走warp
      建议食用 ss + warp 代理模式(未测试,有问题issue提)
   2. 更新了超时设定
-
+  
+# Q&A
+  1. 刷不到HKG?: 
+  四舍五入等于玄学 | 完全看你自己能不能连到(只要成功一次就行,但是有概率掉回非HKG)
+  2. 网络质量: 
+  具体看cf&运营商抽不抽风
+  3. 掉HKG: 
+  重刷就行(有可能是你的网络与HKG连接不好掉的)
+  
 ## 下载
   https://github.com/Windla/WARP-PLUS-HKG/archive/refs/heads/main.zip
 
