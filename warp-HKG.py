@@ -43,7 +43,7 @@ time.sleep(5)
 while True:
     os.system('cls' if os.name == 'nt' else 'clear')
     print("")
-    print("                WARP-PLUS-HKG (script)" + " By Wind_la")
+    print("                WARP-PLUS-HKG (script)")
     print("")
     x = x + 1
     print(f"[!] 第{x}次连接 1.1.1.1 trace")
