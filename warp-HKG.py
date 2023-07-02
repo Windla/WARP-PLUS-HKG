@@ -29,11 +29,11 @@ def GetUAC():
             exit()
 warp = "plus"
 win32api.ShellExecute(0, 'open', WARP_path, '', '', 1)
-os.system("title WARP-PLUS-HKG By Wind_la (Bilibili)")
+os.system("title WARP-PLUS-HKG")
 x = 0
 os.system('cls' if os.name == 'nt' else 'clear')
 print("")
-print("                WARP-PLUS-HKG (script)" + " By Wind_la")
+print("                WARP-PLUS-HKG (script)")
 print("")
 print("[!] 版本: v1.1.0")
 print("[!] 项目: https://github.com/Windla/WARP-PLUS-HKG")
