@@ -1,6 +1,6 @@
 # WARP-PLUS-HKG
 
-> 将Cloudflare WARP的主机托管中心锁定为HKG(香港), 以换取低延时warp+(随缘)
+> 将Cloudflare WARP的主机托管中心锁定为HKG(香港), 以换取低延时warp+或warp(随缘)
 
 ## 联动
 [WARP-PLUS-FIX](https://github.com/Windla/WARP-PLUS-FIX) | 在原ALIILAPRO大佬的基础上, 加入了超时和速度检测
