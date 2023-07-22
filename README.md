@@ -5,7 +5,10 @@
 ## 联动
 [WARP-PLUS-FIX](https://github.com/Windla/WARP-PLUS-FIX) | 在原ALIILAPRO大佬的基础上, 加入了超时和速度检测
 
-
+## 警告(新增)(必读)
+   近期反馈证实HKG并不是那么容易刷到的, 有些人刷了一晚上都没成功, 需要做好失败的心里准备.
+  
+   省流: WARP必须赏脸给你来一个HKG的链接才有可能成功(详见 Q&A 1. 刷不到HKG?)
   
   
 ## 注意 
