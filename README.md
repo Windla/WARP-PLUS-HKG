@@ -33,6 +33,12 @@
 ## 安装
 
 ```
+pip install -r requirements.txt
+```
+
+or
+
+```
 pip install requests
 pip install pywin32
 pip install pyuac
