@@ -44,7 +44,7 @@ def main():
     print("")
     print("                WARP-PLUS-HKG (script)")
     print("")
-    print("[info] 版本: v1.1.0")
+    print("[info] 版本: v1.1.1")
     print("[info] 项目: https://github.com/Windla/WARP-PLUS-HKG")
     print("[info] 正在等待Cloudflare WARP启动")
     time.sleep(5)
