@@ -1,11 +1,15 @@
 # WARP-PLUS-HKG
 
-> 刷新Cloudflare WARP的主机托管中心直到为HKG(香港), 以换取低延时warp+或warp(随缘)
+> 刷新Cloudflare WARP的主机托管中心直到为HKG(香港), 以换取低延时warp+或warp(已废弃)
 
-## 联动
-[WARP-PLUS-FIX](https://github.com/Windla/WARP-PLUS-FIX) | 在原ALIILAPRO大佬的基础上, 加入了超时和速度检测
+## 必读(新)
+   > 感觉不如`warp-yxip`，请自行搜索。
 
-## 必读(新增)
+   > 此项目脚本不推荐使用，无需继续阅读，请使用`warp-yxip`代替。
+
+   > 如果你执意要用此项目脚本，请继续阅读，并做好一无所获的心理准备。 
+
+## 必读(旧)
    近期反馈证实HKG并不是那么容易刷到的, 有些人刷了一晚上都没成功, 需要做好失败的心里准备.
   
    省流: WARP必须赏脸给你来一个HKG的链接才有可能成功(详见 Q&A 1. 刷不到HKG?)
@@ -56,8 +60,6 @@ pip install ping3
 ## 关于UAC
   UAC是为了开关`Cloudflare WARP`服务使用, 无其他用处！
   
-## 关注我
-  [Bilibili](https://space.bilibili.com/358002685)
 ## Star!
 
 [![Stargazers over time](https://starchart.cc/Windla/WARP-PLUS-HKG.svg)](https://starchart.cc/Windla/WARP-PLUS-HKG)
